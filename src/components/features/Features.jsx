@@ -20,7 +20,7 @@ const Features = () => {
           
         />
         <Card
-          title="App Development"
+          title="Web Development"
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
           hic consequuntur eum repellendous ad."
           icon={<AiFillAppstore />}
@@ -32,7 +32,7 @@ const Features = () => {
           icon={<SiKalilinux  />}
         />
         <Card
-          title="SEO Optimization"
+          title="Network Technician"
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
           hic consequuntur eum repellendous ad."
           icon={<SiProgress />}
