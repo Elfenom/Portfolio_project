@@ -18,7 +18,7 @@ const Experience = () => {
           <ResumeCard
             title="Software Engineer"
             subTitle="Innovate space - ( March 2024 - Present)"
-            result="Nigeria"
+            result="Anambra"
             
           />
           <ResumeCard
@@ -30,7 +30,7 @@ const Experience = () => {
           <ResumeCard
             title="CyberSecuriy instructor"
             subTitle="Webstack ict global - (2023 - 2024)"
-            result="Nigeria"
+            result="Anambra"
            
           />
         </div>
@@ -44,18 +44,18 @@ const Experience = () => {
           <ResumeCard
             title="Gym Instructor"
             subTitle="UNN Gym Center (2018 - 2021)"
-            result="Nsukka"
+            result="Enugu"
           />
           <ResumeCard
             title="Web Developer and Instructor"
             subTitle="Classic systems info-Tech (2022 - 2023)"
-            result="Ado-Ekiti"
+            result="Ekiti"
             // des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
           />
           <ResumeCard
             title="School Teacher"
             subTitle="Christ Girls' Secondary School (2022 - 2023)"
-            result="Ado-Ekiti"
+            result="Ekiti"
             des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
           />
         </div>
