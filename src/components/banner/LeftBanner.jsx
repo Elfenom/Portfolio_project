@@ -32,7 +32,7 @@ const LeftBanner = () => {
             />
           </h2>
           <p className="text-base font-bodyFont leading-6 tracking-wide">
-            As a cybersecurity analyst and web developer, I merge the realms of
+            As a cybersecurity analyst and software developer, I merge the realms of
             security and creativity to craft robust digital experiences
             fortified against modern threats. With a passion for safeguarding
             online assets and a flair for innovative web design, I thrive at the
