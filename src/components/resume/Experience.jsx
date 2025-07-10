@@ -27,12 +27,8 @@ const Experience = () => {
             result="Nigeria"
             
           />
-          <ResumeCard
-            title="CyberSecuriy instructor"
-            subTitle="Webstack ict global - (2023 - 2024)"
-            result="Anambra"
-           
-          />
+          
+          
         </div>
       </div>
       <div>
@@ -42,9 +38,9 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Gym Instructor"
-            subTitle="UNN Gym Center (2018 - 2021)"
-            result="Enugu"
+            title="STUDENT DOCTOR"
+            subTitle="UNN VETERINARY TEACHING HOSPITAL (2020 - 2021)"
+            result="NSUKKA"
           />
           <ResumeCard
             title="Web Developer and Instructor"
@@ -52,12 +48,7 @@ const Experience = () => {
             result="Ekiti"
             // des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
           />
-          <ResumeCard
-            title="School Teacher"
-            subTitle="Christ Girls' Secondary School (2022 - 2023)"
-            result="Ekiti"
-            des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
-          />
+          
         </div>
       </div>
     </motion.div>

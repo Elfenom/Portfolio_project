@@ -31,11 +31,14 @@ const LeftBanner = () => {
             />
           </h2>
           <p className="text-base font-bodyFont leading-6 tracking-wide">
-            As a cybersecurity analyst and software developer, I merge the realms of
-            security and creativity to craft robust digital experiences
-            fortified against modern threats. With a passion for safeguarding
-            online assets and a flair for innovative web design, I thrive at the
-            intersection of technology and security.
+            Welcome to the future of veterinary care — where compassion meets innovation.
+
+As a Veterinary Doctor and Software Engineer, I bridge the worlds of medicine and technology to create smarter, more connected solutions for animal health.
+I build tools that empower vets, support pet owners, and enhance the way we diagnose, treat, and care for animals. From AI-driven diagnostics to intuitive veterinary software, my work is rooted in a deep understanding of both patient needs and technological potential.
+This is more than a profession—it’s a vision:
+To transform animal healthcare through thoughtful, intelligent design.
+
+Where care meets code. And the future begins.
           </p>
         </div>
         <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">

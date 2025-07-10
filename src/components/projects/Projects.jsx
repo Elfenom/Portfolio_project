@@ -11,7 +11,7 @@ const projects = () => {
     >
       <div className="flex justify-center items-center text-center">
       <Title
-        title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
+        title="VISIT MY PORTFOLIO AND SEND IN YOUR FEEDBACK"
         des="My Projects"
       />
       </div>
@@ -23,31 +23,31 @@ const projects = () => {
           src={projectOne}
         />
         <ProjectsCard
-          title="E-commerce Website"
+          title="E-COMMERCE WEBSITE"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectTwo}
         />
         <ProjectsCard
-          title="Chatting App"
+          title="CHAT APP"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectThree}
         />
         <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
+          title="ONLINE CODE EDITOR"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectThree}
         />
         <ProjectsCard
-          title="E-commerce Website"
+          title="JOB BOARD FOR TECH POSITIONS"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectOne}
         />
         <ProjectsCard
-          title="Chatting App"
+          title="ALGORITHM VISUALIZER"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectTwo}
