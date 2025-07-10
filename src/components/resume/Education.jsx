@@ -17,23 +17,18 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="BSc in Biochemistry"
-            subTitle="University of Nigeria (2016 - 2021)"
-            result="3.90/4"
+            title="DVM in Veterinary medicine"
+            subTitle="University of Nigeria (2014 - 2020)"
+            result="Unclassified"
             des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
           />
           <ResumeCard
             title="Bsc in Software Engineering"
-            subTitle="Alx X Holberton School, CA USA (2022 - 2023)"
+            subTitle="Alx X Holberton School, CA USA (2024 - 2025)"
             result="4.75/5"
             des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
           />
-          <ResumeCard
-            title="As - Cybersecuriy and Network Technician"
-            subTitle="Cisco Networking Academy, San Francisco USA (2023 - 2024)"
-            result="5.00/5"
-            des="Additional skill acquired in order to widen my scope in Tech."
-          />
+          
         </div>
       </div>
       {/* part Two */}
@@ -44,24 +39,14 @@ const Education = () => {
           <h2 className="text-3xl md:text-4xl font-bold">Job Experience</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-          <ResumeCard
-            title="Cyber Security tutor"
-            subTitle="Innovate Space - (April 2024 - Present)"
-            result="Nigeria"
-            des="I train people on the intricases of Cyber Security."
-          />
+          
           <ResumeCard
             title="Frontend Developer"
-            subTitle="Paystride Inc - (Nov 2023 - present)"
+            subTitle="Paystride Inc - (Nov 2025 - present)"
             result="Nigeria"
             des="A volunteer role"
           />
-          <ResumeCard
-            title="Cyber Security Analyst & tutor "
-            subTitle="Webstack Ict global - (Sept 2023 - Mar 2024)"
-            result="Nigeria"
-            des="The Anambra state economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
-          />
+          
         </div>
       </div>
     </motion.div>

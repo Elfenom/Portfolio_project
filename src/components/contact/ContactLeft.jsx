@@ -14,14 +14,14 @@ const ContactLeft = () => {
             <div className="flex flex-col gap-4">
                 <h3 className="text-3xl font-bold text-white">Paschal Edeh</h3>
                 <p className="text-lg font-normal text-gray-400">
-                    MERN Stack Developer
+                    Front End Developer
                 </p>
                 <p className="text-base text-gray-400 tracking-wide">
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                     Libero possimus ad autem, 
                 </p>
                 <p className="text-base text-gray-400 flex items-center gap-2">
-                    Phone: <span className="text-lightText">+2347025192479</span>
+                    Phone: <span className="text-lightText">+2347025192479  +2348163288623</span>
                 </p>
                 <p className="text-base text-gray-400 flex items-center gap-2">
                     Email:{" "}

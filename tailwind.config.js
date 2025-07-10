@@ -13,6 +13,7 @@ module.exports = {
         lgl: "1024",
         xl: "1280",
       },
+      
       fontFamily: {
         bodyFont: ["Poppins", "sans-serif"],
         titleFont: ["Montserrat", "sans-serif"],
