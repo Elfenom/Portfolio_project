@@ -12,7 +12,7 @@ const ContactLeft = () => {
               alt="contactImg"
             />
             <div className="flex flex-col gap-4">
-                <h3 className="text-3xl font-bold text-white">Justice Maduka</h3>
+                <h3 className="text-3xl font-bold text-white">Paschal Edeh</h3>
                 <p className="text-lg font-normal text-gray-400">
                     MERN Stack Developer
                 </p>
@@ -21,11 +21,11 @@ const ContactLeft = () => {
                     Libero possimus ad autem, 
                 </p>
                 <p className="text-base text-gray-400 flex items-center gap-2">
-                    Phone: <span className="text-lightText">+2347067654107</span>
+                    Phone: <span className="text-lightText">+2347025192479</span>
                 </p>
                 <p className="text-base text-gray-400 flex items-center gap-2">
                     Email:{" "}
-                    <span className="text-lightText">jonasjustice98@gmail.com</span>
+                    <span className="text-lightText">elphenom10@gmail.com</span>
                 </p>
             </div>
             <div className="flex flex-col gap-4">

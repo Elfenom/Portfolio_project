@@ -6,9 +6,8 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 const LeftBanner = () => {
     const [text] = useTypewriter({
         words: [
-          "Cyber Security Analyst.",
-          "Professional Coder.",
-          "Full Stack Developer.",
+          "Veterinarian." ,
+          "Front end developer.",
         ],
         Loop: true,
         typeSpeed: 20,
@@ -21,7 +20,7 @@ const LeftBanner = () => {
           <h4 className="text-lg font-normal">WELCOME TO MY WORLD</h4>
           <h1 className="text-6xl font-bold text-white">
             Hi, I'm{" "}
-            <span className="text-designColor capitalize">Justice Maduka</span>
+            <span className="text-designColor capitalize">Paschal Edeh</span>
           </h1>
           <h2 className="text-4xl font-bold text-white">
             a <span>{text}</span>
